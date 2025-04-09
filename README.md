@@ -1,6 +1,5 @@
 ## Hi there 👋
-nice to meet you <dr>
-I'm Yeungnam University student
+nice to meet you <br>
 
 <!-- gmail -->
 <img src="https://img.shields.io/badge/jokim483@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/> <a href="https://www.instagram.com/soon_je/"><img src="https://img.shields.io/badge/Instagram-FF0069?style=flat&logo=instagram&logoColor=white"/>

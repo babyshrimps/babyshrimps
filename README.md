@@ -2,7 +2,7 @@
 nice to meet you
 
 <!-- gmail -->
-<img src="https://img.shields.io/badge/jokim483@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/jokim483@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 <!-- instagram -->
 <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
 

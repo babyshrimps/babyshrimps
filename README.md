@@ -2,9 +2,15 @@
 nice to meet you
 
 <!-- gmail -->
-<img src="https://img.shields.io/badge/jokim483@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/> <a href="https://www.instagram.com/soon_je/"><img src="https://img.shields.io/badge/instagram-FF0069?style=flat&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/jokim483@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/> <a href="https://www.instagram.com/soon_je/"><img src="https://img.shields.io/badge/Instagram-FF0069?style=flat&logo=instagram&logoColor=white"/>
 
+###I'm...
+---
+- Yeungnam University student
 
+###I'm studying...
+---
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-EA4335?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 
 <!--
 **babyshrimps/babyshrimps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

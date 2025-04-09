@@ -1,5 +1,7 @@
 ## Hi there 👋
 nice to meet you
+
+<img src="https://img.shields.io/badge/22411835@yu.ac.kr-my_school_email-EA4335?style=plastic&logo=gmail&logoColor=white"/>
 <!--
 **babyshrimps/babyshrimps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

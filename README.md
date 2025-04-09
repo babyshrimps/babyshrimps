@@ -1,10 +1,13 @@
 ## Hi there 👋
-nice to meet you <br>
+nice to meet you😺 <br>
 
 <!-- gmail -->
 <img src="https://img.shields.io/badge/jokim483@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/> <a href="https://www.instagram.com/soon_je/"><img src="https://img.shields.io/badge/Instagram-FF0069?style=flat&logo=instagram&logoColor=white"/>
+This is my email and instagram😎 <br>
+I pleased to introduce myself here🏌‍♀
 
 ### I studying...
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 
 <!--
